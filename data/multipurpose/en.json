@@ -14,7 +14,7 @@
     },
     {
       "apiName": "Ryzen API",
-      "status": false,
+      "status": true,
       "documentationUrl": "https://api.ryzendesu.vip",
       "developer": {
         "name": "ShirokamiRyzen",
