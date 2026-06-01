@@ -112,17 +112,6 @@
       "authentication": false
     },
     {
-      "apiName": "Nama Daerah Seluruh Indonesia",
-      "status": false,
-      "documentationUrl": "https://ibnux.github.io/data-indonesia",
-      "developer": {
-        "name": "ibnux",
-        "profileUrl": null
-      },
-      "description": "JSON API nama Provinsi, Kabupaten, Kecamatan, dan Desa untuk Mobile Apps.",
-      "authentication": false
-    },
-    {
       "apiName": "Nama Provinsi, Kota, Kabupaten Seluruh Wilayah Indonesia",
       "status": true,
       "documentationUrl": "https://github.com/emsifa/api-wilayah-indonesia",
