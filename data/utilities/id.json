@@ -58,7 +58,7 @@
     },
     {
       "apiName": "Indiwtf API",
-      "status": true,
+      "status": false,
       "documentationUrl": "https://indiwtf.com/api/",
       "developer": {
         "name": "Frans Allen",

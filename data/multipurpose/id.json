@@ -11,17 +11,6 @@
       },
       "description": "Kumpulan api kebutuhan bot, dan beberapa api:  Visitor api, Cek ip api, Cek Website Hidup atau tidak, File api, dan lain-lain dengan respon JSON.",
       "authentication": false
-    },
-    {
-      "apiName": "Ryzen API",
-      "status": false,
-      "documentationUrl": "https://api.ryzendesu.vip",
-      "developer": {
-        "name": "ShirokamiRyzen",
-        "profileUrl": "https://github.com/ShirokamiRyzen"
-      },
-      "description": "Menyediakan API gratis untuk pengembangan aplikasi maupun bot, disertai dengan dokumentasi lengkap dan uptime hingga 99%. Akses berbagai API seperti AI, Downloader, Internet, dan lainnya",
-      "authentication": false
     }
   ]
 }
