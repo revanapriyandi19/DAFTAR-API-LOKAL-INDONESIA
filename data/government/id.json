@@ -24,17 +24,6 @@
       "authentication": false
     },
     {
-      "apiName": "Data BMKG",
-      "status": false,
-      "documentationUrl": "http://data.bmkg.go.id/tentang",
-      "developer": {
-        "name": "Badan Meteorologi dan Geofisika",
-        "profileUrl": null
-      },
-      "description": "Data terkini cuaca dan kejadian bencana di Indonesia.",
-      "authentication": false
-    },
-    {
       "apiName": "Data BPS",
       "status": true,
       "documentationUrl": "https://webapi.bps.go.id/developer",
